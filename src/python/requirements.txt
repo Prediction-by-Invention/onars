@@ -1,0 +1,9 @@
+bandit
+black
+flake8
+invoke==2.2.0
+isort
+mypy
+uuid
+uuid6
+shortuuid

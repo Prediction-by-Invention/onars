@@ -1,0 +1,43 @@
+{
+    "error": "",
+    "uuid": "CEFE2798-5676-11EF-BDCC-F7B58A3F3896",
+    "stdout": "Got input: '< a --> b >.'\nInput: <a --> b>. Priority=1.000000 Stamp=[1] Truth: frequency=1.000000, confidence=0.900000\nSelected: <a --> b>. Priority=1.000000 Stamp=[1] Truth: frequency=1.000000, confidence=0.900000",
+    "result": {
+        "input": [
+            {
+                "occurrenceTime": "eternal",
+                "Stamp": [
+                    1
+                ],
+                "punctuation": ".",
+                "term": "<a --> b>",
+                "truth": {
+                    "frequency": "1.000000",
+                    "confidence": "0.900000"
+                },
+                "Priority": "1.000000"
+            }
+        ],
+        "derivations": [],
+        "answers": [],
+        "executions": [],
+        "reason": null,
+        "selections": [
+            {
+                "occurrenceTime": "eternal",
+                "Stamp": [
+                    1
+                ],
+                "punctuation": ".",
+                "term": "<a --> b>",
+                "truth": {
+                    "frequency": "1.000000",
+                    "confidence": "0.900000"
+                },
+                "Priority": "1.000000"
+            }
+        ],
+        "raw": "Input: <a --> b>. Priority=1.000000 Stamp=[1] Truth: frequency=1.000000, confidence=0.900000\nSelected: <a --> b>. Priority=1.000000 Stamp=[1] Truth: frequency=1.000000, confidence=0.900000",
+        "requestOutputArgs": false
+    }
+}
