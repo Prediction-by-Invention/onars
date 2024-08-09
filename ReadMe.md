@@ -61,7 +61,7 @@ onars:$
 - The Perl based Onars HTTP Daemon can be started by calling it:
 
 ```
-Onars HTTP Daemon
+./bin/onars_httpd 
 ```
 
 - This will start the HTTP Daemon:
